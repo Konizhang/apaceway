@@ -50,10 +50,10 @@ $(document).ready(function(){
    
     $(window).scroll(function(){
         
-        if ($(window).scrollTop() > 970) {
+        if ($(window).scrollTop() > 850) {
             $('.navbar').addClass('fixed-top').addClass('navbar-darkp').addClass('bg-dark').addClass('fixposition');
         }
-        if ($(window).scrollTop() < 971) {
+        if ($(window).scrollTop() < 850) {
             $('.navbar').removeClass('fixed-top').removeClass('navbar-darkp').removeClass('bg-dark');
         }
         

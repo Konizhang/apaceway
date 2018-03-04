@@ -272,12 +272,12 @@ body {
  /* SECTION CARDS */   
     
 
-#section-cards h2 {
+.section-cards h2 {
     text-align: center;
 }
 
 
-#section-cards {
+.section-cards {
     padding: 5rem 0;
 }
     
@@ -841,6 +841,7 @@ a{
 
 #qr_code{
   width: 100px;
+  margin-top: 1rem;
 }
 
 #wechat_icon{
@@ -848,5 +849,17 @@ a{
 }
 
 #contactsection{
-    margin-top: 1rem;
+    margin-top: 5rem;
+}
+.flag{
+    padding-top: 0.3rem;
+}
+
+.flag a:hover{
+    border-bottom: 0px;
+    cursor: pointer;
+}
+
+#logistics{
+    padding-top: 3rem;
 }
