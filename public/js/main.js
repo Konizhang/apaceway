@@ -20,7 +20,7 @@ $(document).ready(function(){
     if(language.includes("CN")){
         var defaultLang = "cn"; 
     }
-       defaultLang = "en";  
+   //    defaultLang = "en";  
             $("[i18n]").i18n({
                 defaultLang: defaultLang,
                 filePath: "i18n/",

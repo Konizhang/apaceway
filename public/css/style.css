@@ -228,23 +228,6 @@ body {
     padding-left: 90px;
 }
 
-.timeline > li > .timeline-badge {
-    font-size: 1rem; !important
-    color: #fff;
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
-    text-align: center;
-    position: absolute;
-    top: 16px;
-    left: 50%;
-    margin-left: -25px;
-    background-color: rgba(19, 128, 36, 0.82);
-    border-top-right-radius: 50%;
-    border-top-left-radius: 50%;
-    border-bottom-right-radius: 50%;
-    border-bottom-left-radius: 50%;
-}
 
 .timeline > li.timeline-inverted > .timeline-panel {
     float: right;
@@ -709,14 +692,13 @@ br {
 
 
 
-/*THIS IS NOT MENTIONED IN THE COURSE AS I'VE FOUND THE BUG AFTER PUBLISHING. IT CHANGES THE PADDING OF THE BLACK DIV AT THIS CURRENT HEIGHT*/
+
 @media only screen and (max-height: 865px) {
     .wall-sticker {
         font-size: 5rem;
         padding: 7rem 20rem 2rem 3rem !important;
     }
 }
-/*THIS IS NOT MENTIONED IN THE COURSE AS I'VE FOUND THE BUG AFTER PUBLISHING. IT CHANGES THE PADDING OF THE BLACK DIV AT THIS CURRENT HEIGHT*/
 
 .full-screen {
   background-size: cover;
@@ -836,7 +818,7 @@ a{
 }
 
 #contact_email,#contact_mobile,#contact_fax,contact_phone{
-    color:#7f9da5;
+    /* color:#7f9da5; */
 }
 
 #qr_code{

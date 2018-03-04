@@ -65,10 +65,10 @@
 
     "contact.info":"Apaceway Contact Information",
     "contact.work":"we are open 24*7",
-    "Phone":"Phone",
-    "Fax":"Fax",
-    "Mobile":"Mobile",
-    "Wechat":"Wechat",
+    "Phone":"Phone:",
+    "Fax":"Fax:",
+    "Mobile":"Mobile:",
+    "Wechat":"Wechat:",
     "Name":"Name",
     "Message":"Message"
 }

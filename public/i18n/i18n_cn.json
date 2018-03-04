@@ -64,10 +64,10 @@
  
      "contact.info":"Apaceway 联系信息",
      "contact.work":"我们全天候营业24小时每天每周7天",
-     "Phone":"电话",
-     "Fax":"传真",
-     "Mobile":"移动电话",
-     "Wechat":"微信",
+     "Phone":"电话:",
+     "Fax":"传真:",
+     "Mobile":"移动电话:",
+     "Wechat":"微信:",
      "Name":"姓名",
      "Message":"消息"
  
